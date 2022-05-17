@@ -1,2 +1,2 @@
-# Algoritimo-CC
+# Algoritmo-CC
 Questionários da Disciplina de Algoritmo no curso de Ciência da Computação
